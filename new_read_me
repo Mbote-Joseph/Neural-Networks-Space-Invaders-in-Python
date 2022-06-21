@@ -6,3 +6,5 @@ Right click and select "Open in Terminal" to open the terminal in this folder
 #2. Run the code
 -python2 space_driver.py
 #3. To deactivate the conda environment - conda deactivate
+
+-It should be able t5o learn
